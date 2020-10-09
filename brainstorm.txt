@@ -1,0 +1,13 @@
+-------------------------------------
+                navbar
+-------------------------------------
+                section 1
+-------------------------------------
+                section 2
+-------------------------------------
+                section 3
+-------------------------------------
+                footer
+
+--clicking on navbar does a smooth scroll to that section
+--footer only appears when scrolled down to it
